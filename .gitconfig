@@ -1,0 +1,8 @@
+[user]
+	name = Harold Leboulanger
+	email = harold.leboulanger@gmail.com
+[push]
+	default = simple
+
+[alias]
+	st = status
