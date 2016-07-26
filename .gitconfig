@@ -8,6 +8,7 @@
 
 	# http://gggritso.com/human-git-aliases
 	branches = branch -a
+	branchout = checkout -b
 	tags = tag
 	stashes = stash list
 
